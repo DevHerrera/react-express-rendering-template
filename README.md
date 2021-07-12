@@ -10,9 +10,11 @@ This project is a template to run a React app using express
 
 ## How to run
 
-run `npm install`
-run `npm run build`
-run `npm run start`
+### `npm install`
+
+### `npm run build`
+
+### `npm run start`
 
 ## Available Scripts
 
